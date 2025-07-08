@@ -4,7 +4,11 @@
 
 The ADM cycle is a continuous process that guides the development and evolution of enterprise architecture. It consists of several phases that work together to create, maintain, and govern architectural solutions.
 
-![alt text](togaf.drawio.svg "ADM")
+![alt text](togaf-adm.drawio.svg "ADM")
+
+Deliverables:
+
+![alt text](togaf-deliverables.drawio.svg "ADM Deliverables")
 
 ## References
 
