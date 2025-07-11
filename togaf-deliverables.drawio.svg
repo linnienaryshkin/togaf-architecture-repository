@@ -1,63 +1,107 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: #ffffff; background-color: light-dark(#ffffff, #121212);" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="916px" height="417px" viewBox="-0.5 -0.5 916 417" content="&lt;mxfile&gt;&lt;diagram id=&quot;M6IQUcOMw-7S8u6mI6L0&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: #ffffff; background-color: light-dark(#ffffff, #121212);" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1289px" height="650px" viewBox="-0.5 -0.5 1289 650" content="&lt;mxfile&gt;&lt;diagram id=&quot;M6IQUcOMw-7S8u6mI6L0&quot; name=&quot; &quot;&gt;7V1dc5s8Fv41nkkv3AE7dpJLOx9tZtpptm631zLIWBtAvELkY3/9niMJDMYkOI0JySoXCZGEkHQeHT3n6GswPo8evgiSrL9zn4aDkeM/DMYXg9HIHZ+ewh8MeTQhztlYhwSC+SZsE7Bg/6V5QhOaMZ+mlYSS81CypBro8TimnqyEESH4fTXZiofVryYkoLWAhUfCeugf5su1Dj2dOJvwr5QF6/zLrmNilsS7DQTPYvO9wWi8Uj86OiJ5XiZ9uiY+vy8FjS8H43PBudRP0cM5DbFx82bT7101xBblFjSWbV4Yneg37kiY0bzIqmDyMW8MrE9iklEh6cMuEZBlntypl8EtagaQoTyiUjxCEpPRyZl+w4Dl2GRwv2l4F1pYB65LrT7NxUGMtIMi602N4cFUuqHFJrUGmAlv/RmCfnLiRySptQfILMHHmEv4M79fM0kXCfEw7B46BIStZQQfvHDhccVjaQDuQiPMU/08hceQLGl4w1MmGY8hLKQrqNocG5kBFr9tRUfM97EMcxKyAAOEbovihZkJLxKqD8wLSJ7zkAuI9+mKZKE0hbsiEQux7b/S8I5iRhjBwjBPDhj2Tx3nZGxeKIU76gdrJQW/paWY2cRxjjGmjoYCc9tgakSIWwHI+KyOkNFZHR/HrwGPaQ0e11ES0ghqQ5RcEO9TEqHU9W8I+c4CkcfehCS2EHp7CLlVEB3vUDNj5zAgGtUwtADwKAxBMIexwcl1zh8ubg+DllOLlpejxR13h5Zx44D0b5YqnWLh8dbwqILjpDtwNLKVqWq/pYCnAJ8u6IrFzIxBF9zLtLax41CvoDM67Q467i6qr2Gj2XsZGdN/Mq4AxYVPxdDjYUiSFOJmivLn/82VTSMCFg+XXEoe6QTO5xMa6dikEDpGCBoCL7ozb3q6jVVEsDxyUfVBNRx3PDUPU/eTTorCGq6MePGFIUmAhg3TxxQGUp264GGm7DpumLHtiN3JFzTg2Ah/bs73e+H39e70pe/jv7+XWSyz3VldCA5iGjkLEqcNmUHMMKWCrUoNojsgNod7nDyoiGnxluMzUZElySSvJPBCkqaVJB6Y8sOQxbSaEZFEh5bTOuU0WukUeFpT4u/E0xNw6EfJxfss9npnsUEnyaFRsVhwo5XRT6H7dbnTuoAgyISHConQIcnRaDLR6Ks/OJ+nZ6ZvJsT3WRzoXCYqF9cxcMw/JHkyrHb3trmbDNQA8XdZYO1flkNTs+NQARU3oTMYulbEk3ksKORqglIECsyKsHcivMkEdHVqJfhuJXiu3ZGK91ohvlMhXj4QdLLBm0c/qSQMaeycxLefXiZTDBQ7UyqasgWAJfcf+0sCRu+TuzxV7Aam2KIv7AVB93QfCP4C1HFBsWxoYYNd7MlMICSvBInovfLTtQBjHV9vXN2ZTxIJRobz68eX2dUAJ9bgF1i0VCSCpWBSJdRjK+YN1NwOKj54IjEWO+Bg6MYk9mivq3guKJFKdEx54AHzLGIxUXb4zZrklquuDrYFaAJUv4J7NE2L6uKUI/634tiziLKm02yZ0n8y7bpNMK+0322RpTAugZ3ol0SuKzQLmNKxurIX9G5BvR/J09XZqUr7rHjGB1E8MAi/bKjPxfQXg/F2Fpp5/F0e+w/o+2nTc5KQJQuZxB44S6HTpNof2bEGtXJrktslugVBa6K+W2YpdCNUhFfXv1TXJb4JMMoiIjAYKmlaOXUrp2t06hPl142TTObjd+rxBHX5ipKUmZ6mCsBiUPZRMcYZ12K8TJPGzrrFd/JZp+auWslTAaTNZ2pzoH/eglNZpDUh7Se9oyRUvMELeaaa+JaFihEFxKx00PEKglIQFmNzAy8KtR/7A/GIY8sjesAjdq6bKOkqq0J6JcQrGHpICMZHuhmi8A2wK1OlLtAQxQAfLDSwxXAa0oRonpFKckvXPIRiYVggKN3ijVaSHdEOpBFK2S8f243vL+D8LyMSJVdNC9+Map9EUAFWPDAbSfPxy1eeRpXNVg4WY51gTC1ZUariX8dKHsTXg7PxVyxJfFvwC4l4VHTgDiHyobjGxHKNHnCNvc0gqy46ldpXqBBkd6f3ntCEmVk/TQwlEQFFmhhwEhpOUWIgml5sHB2OL5CAHMyXa8XYOB+Bk6qKH264Xmq0I0WhYDutBI8O5FWocw5cIcd8M4NwQLZjgdYp0HIFbthEFrMVUyLmUcy8NYljpUnoQwKwo2qOy6iJ2TW2JBV3zHtmtufdUY2ppRr9oxo/0TQRSouhYlwk1PtsFUlvZAiqHgVVnSnJHRZmPbITU+qrUW1NEm20kKqQfZriaiIrvc6tzP1JxUumQLZ8V2q2xvCaJUlZsa7gBTMy5b0dexVpNp9bhts54hbUM5OlmC5LC564MUQ8HiUh0wtrCtXhm107CNaPxDlOLOfoH+do2C9mSUdPhHihvNOpHj2o8YuaZWq5q6PMMBQl8QTX3EQtXfN5RNgz87JWdgeZPJE0EHpxTZvhvsr/G7sgftTPfeataER1+N+ZH5KjtsXMz8d4KsdWvhMeS/H0xpliqGyX32Y0tQqsJ53gl9ZSKpfvDDVT7lBR35vnWk0n4DG0HO6IxTgWe2Hm60nk3L7yGYEuFX0wd8yppUZ9oEZKT+4412XxtAK1KqVb6X3jAZ4VAGmOUGSfCkbEiiN69L72o0UeXSW9aHbxeGuYtcLrRHiX0ZL6frFL40BuEFV2QbN0rw89z2xeuFSlfjCUVSY9wSNoEJ2F3jGjnHazLKcgizx29meBaXgAyOMfi3ycWfLRB/KxNRf0vCqyiqJb1kEekR1ytflC7wX09AyPWm+g1w46CfFuSZCvZpUsUtZNZXEr2Lyx7vaWfnQuxcVjLNc0NRsj208FvdJUTHt3zdXTRocxkDdbgSwNede4VNuTVVvwMORqyhAz5PGSE+FrPTO4HA1Op4MzdaIwX5pdvEmyFaWWrQAhYKkkz6yZf3dcxX3qMCSLy67IyovOwrW6picy/ZFJQ0qcNb8f5EdBPFAvk5vpJZbPXgzycxJEzkkdGtZmKazsOpHdxWa3Snvy8qwxoctaXp5SOfPDuWOk3ZdaTOnsWqAi8ZyOoPi22RaGS2olfc7Zb2F2CJosaTJcPg5T+DsoO1aNRr9n6sAsj6cg6itBU54JhRTcAqx3A38o2uFa2tED2rFlhLVRNlZvdOtN3WzVdZYs9p9cAmuOsOBhZrTKRu9buXUrt7mxPnnLmZJW/o/zV2InG9/Z6zo5VFNuDgPTBLhaJQu/jljt3UBzPUUqooipHRBKP0SVRSPoYZUSJKazzI0ULW6RhR9to457mBMULRT3Yx7lpWV2m18f5QZkcMX0iVcl85Hku0yNwbLFRIodG7FPhG/tzLeQmp95esstCXCZsmw3ync4H7O3T0OuBc+CtZ4pTAT/D15VOHJCtqLeoxce7BBVC7MmmH1n/nAjCJL5DP+u1H2NIyfm8bCyE8coCxyRUd3f4IRKluLdke+JWzjqGYALObemG/bc1D7Qja2dwNdRovSPZR59FGH5CFU9nxLTe9WrK0Ikq5VWP3oypcpErMy6ldnvxD/EvpzXdJ2093jsu2x1WXL2OHgChlqv5KipF8HSW8uDO8fjNxqoBe1ZjsvyCatanRg2IqgEHGp/R8V1+uyxAo3XYeibL+rhehV9Hr51haC6IODZqwMbr4+u36bXfHXexK3fDO1Md1yX9zo3Q5823peXJiTeCf6Qok9qCPFe0QeGIO2TvAM03iNT3y6VH2rY0PP3KUKszuHcXQJPXf2wswxoW5WVifqkjsLrSHcetlhKYy8qfYXbJv+yy2zdY9vhNbbu2Vt2n/zK3PKxXB2C9P/sStS/BGkFoh3eiDpyahD9SYe/U7NrTK+/tTrsreGxrcO6vLndbbyMe+MNtAh5K4QYRByfdYiIUQ0RjXNCFhg9Ux2TSYdAGe8YXJ735lnMvLEymXSpTI4bh5cdZ0DipXxmhYPlrD3TLAe0rHBdLUfjpoj7AiJdf+c+xRT/Aw==&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <rect fill="#ffffff" width="100%" height="100%" x="0" y="0" style="fill: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));"/>
     <g>
         <g/>
         <g>
-            <path d="M 120 46 L 142 46 L 150 54 L 150 86 L 120 86 L 120 46 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-            <path d="M 142 46 L 142 54 L 150 54" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 78 390 L 101 390 L 107 396 L 107 430 L 78 430 L 78 390 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 101 390 L 101 396 L 107 396" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 28px; height: 1px; padding-top: 43px; margin-left: 121px;">
-                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #ffffff; ">
-                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
-                                    Statement of Arch. Work
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 31px; height: 1px; padding-top: 410px; margin-left: 45px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                                    Arch. Roadmap
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="135" y="43" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
-                        State...
-                    </text>
-                </switch>
-            </g>
-        </g>
-        <g>
-            <path d="M 290 46 L 312 46 L 320 54 L 320 86 L 290 86 L 290 46 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-            <path d="M 312 46 L 312 54 L 320 54" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <g transform="translate(-0.5 -0.5)">
-                <switch>
-                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 28px; height: 1px; padding-top: 43px; margin-left: 291px;">
-                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #ffffff; ">
-                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
-                                    Arch. Vision
-                                </div>
-                            </div>
-                        </div>
-                    </foreignObject>
-                    <text x="305" y="43" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                    <text x="76" y="414" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
                         Arch....
                     </text>
                 </switch>
             </g>
         </g>
         <g>
-            <path d="M 460 46 L 484 46 L 490 52 L 490 86 L 460 86 L 460 46 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-            <path d="M 484 46 L 484 52 L 490 52" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 188 440 L 212 440 L 218 446 L 218 480 L 188 480 L 188 440 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 212 440 L 212 446 L 218 446" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 28px; height: 1px; padding-top: 43px; margin-left: 461px;">
-                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #ffffff; ">
-                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 32px; height: 1px; padding-top: 460px; margin-left: 154px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                                    Implementation &amp; Migration Plan
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="186" y="464" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
+                        Imple...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 188 130 L 210 130 L 218 138 L 218 170 L 188 170 L 188 130 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 210 130 L 210 138 L 218 138" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 32px; height: 1px; padding-top: 150px; margin-left: 154px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                                    Statement of Arch. Work
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="186" y="154" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
+                        State...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 78 170 L 100 170 L 108 178 L 108 210 L 78 210 L 78 170 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 100 170 L 100 178 L 108 178" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 32px; height: 1px; padding-top: 190px; margin-left: 44px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                                    Arch. Vision
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="76" y="194" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
+                        Arch....
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 78 280 L 102 280 L 108 286 L 108 320 L 78 320 L 78 280 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 102 280 L 102 286 L 108 286" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 32px; height: 1px; padding-top: 300px; margin-left: 44px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
                                     Arch.
                                     <br/>
                                     Definition Document
@@ -65,217 +109,521 @@
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="475" y="43" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                    <text x="76" y="304" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
                         Arch....
                     </text>
                 </switch>
             </g>
         </g>
         <g>
-            <rect x="0" y="66" width="560" height="350" fill="none" stroke="none" pointer-events="all"/>
+            <rect x="228" y="0" width="1060" height="650" fill="none" stroke="none" pointer-events="all"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 558px; height: 1px; padding-top: 73px; margin-left: 2px;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 1058px; height: 1px; padding-top: 7px; margin-left: 230px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                    <h3 data-end="1962" data-start="1945">
-                                        <table style="background-color: transparent; font-size: 12px; font-weight: normal;">
-                                            <thead>
-                                                <tr>
-                                                    <th>
-                                                        <font style="font-weight: normal;">
-                                                            Aspect
-                                                        </font>
-                                                    </th>
-                                                    <th>
-                                                        <font style="font-weight: normal;">
-                                                            Statement of Architecture Work
-                                                        </font>
-                                                    </th>
-                                                    <th>
-                                                        <font style="font-weight: normal;">
-                                                            Architecture Vision
-                                                        </font>
-                                                    </th>
-                                                    <th>
-                                                        <font style="font-weight: normal;">
-                                                            Architecture Definition Document
-                                                        </font>
-                                                    </th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>
-                                                        TOGAF Phase
-                                                    </td>
-                                                    <td>
-                                                        Preliminary / Phase A
-                                                    </td>
-                                                    <td>
-                                                        Phase A
-                                                    </td>
-                                                    <td>
-                                                        Phases B–D
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
+                                    <table data-line="0" class="code-line" dir="auto" style="border-collapse: collapse; margin-bottom: 0.7em; position: relative; color: light-dark(rgb(123, 136, 161), rgb(111, 122, 143)); font-family: -apple-system, &quot;system-ui&quot;, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, system-ui, Ubuntu, &quot;Droid Sans&quot;, sans-serif; font-size: 14px;">
+                                        <thead data-line="0" class="code-line" dir="auto" style="position: relative;">
+                                            <tr data-line="0" class="code-line" dir="auto" style="position: relative;">
+                                                <th style="text-align: left; border-bottom: 1px solid light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); padding: 5px 10px; border-top-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Artifact
+                                                    </strong>
+                                                </th>
+                                                <th style="text-align: left; border-bottom: 1px solid light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); padding: 5px 10px; border-top-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18));">
+                                                    <strong>
                                                         Purpose
-                                                    </td>
-                                                    <td>
-                                                        Formal agreement and plan for the architecture effort
-                                                    </td>
-                                                    <td>
-                                                        High-level strategic view to align stakeholders
-                                                    </td>
-                                                    <td>
-                                                        Comprehensive design for baseline &amp; target architectures
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        Detail Level
-                                                    </td>
-                                                    <td>
-                                                        High-level project planning, governance, and scope
-                                                    </td>
-                                                    <td>
-                                                        Conceptual, goal-oriented, motivational
-                                                    </td>
-                                                    <td>
-                                                        Detailed models and mappings across architecture domains
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        Main Audience
-                                                    </td>
-                                                    <td>
-                                                        Stakeholders, sponsors, architecture board
-                                                    </td>
-                                                    <td>
-                                                        Executives, business owners, product leads
-                                                    </td>
-                                                    <td>
-                                                        Architects, solution designers, delivery teams
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        Nature
-                                                    </td>
-                                                    <td>
-                                                        Work authorization and planning document
-                                                    </td>
-                                                    <td>
-                                                        Communication tool to set direction
-                                                    </td>
-                                                    <td>
-                                                        Blueprint for architecture implementation
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        Retail Bank Example
-                                                    </td>
-                                                    <td>
-                                                        Scope: Online/mobile banking, AI support, regulationsConstraints: GDPR, PCIResources: IT, EA, BAGovernance: Arch. Board
-                                                    </td>
-                                                    <td>
-                                                        Vision: Omnichannel UX, AI support, 30% satisfaction gainStakeholders: CDO, Compliance Head
-                                                    </td>
-                                                    <td>
-                                                        Content: Microservices, cloud tech stack, value streams, CRM integrationGap: CRM lacks API
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                    </h3>
-                                    <div class="_tableContainer_80l1q_1">
-                                        <div class="_tableWrapper_80l1q_14 group flex w-fit flex-col-reverse" tabindex="-1"></div>
-                                    </div>
+                                                    </strong>
+                                                </th>
+                                                <th style="text-align: left; border-bottom: 1px solid light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); padding: 5px 10px; border-top-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Connection
+                                                    </strong>
+                                                </th>
+                                                <th style="text-align: left; border-bottom: 1px solid light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); padding: 5px 10px; border-top-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.69), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Example (Retail Bank)
+                                                    </strong>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody data-line="2" class="code-line" dir="auto" style="position: relative;">
+                                            <tr data-line="2" class="code-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Tailored Architecture Framework
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Adapts TOGAF to enterprise-specific context and governance
+                                                </td>
+                                                <td style="padding: 5px 10px; border-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Created in Preliminary Phase; governs the process and tools for all subsequent phases
+                                                </td>
+                                                <td style="padding: 5px 10px; border-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Customized TOGAF for Agile and DevSecOps
+                                                </td>
+                                            </tr>
+                                            <tr data-line="3" class="code-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Capability Assessment
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Evaluates business/IT readiness and maturity
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Initial input to scope feasibility; informs the
+                                                    <strong>
+                                                        Architecture Vision
+                                                    </strong>
+                                                    and
+                                                    <strong>
+                                                        Statement of Work
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Revealed cloud skills gap; led to training plans
+                                                </td>
+                                            </tr>
+                                            <tr data-line="4" class="code-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Statement of Architecture Work
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Formalizes scope, constraints, deliverables, and stakeholder agreement
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Informed by
+                                                    <strong>
+                                                        Capability Assessment
+                                                    </strong>
+                                                    and
+                                                    <strong>
+                                                        Tailored Framework
+                                                    </strong>
+                                                    ; prerequisite to detailed work
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Defines Q4 deadline for banking platform revamp
+                                                </td>
+                                            </tr>
+                                            <tr data-line="5" class="code-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Architecture Vision
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    High-level depiction of target goals, scope, and business drivers
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Aligns stakeholders; derived from
+                                                    <strong>
+                                                        Statement of Work
+                                                    </strong>
+                                                    and validated by
+                                                    <strong>
+                                                        Capability Assessment
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Vision for unified omnichannel experience and AI services
+                                                </td>
+                                            </tr>
+                                            <tr data-line="6" class="code-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Architecture Requirements Spec.
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Captures business and system needs shaping architecture design
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Derived from
+                                                    <strong>
+                                                        Vision
+                                                    </strong>
+                                                    and stakeholder inputs; basis for
+                                                    <strong>
+                                                        Architecture Definition
+                                                    </strong>
+                                                    and ABBs
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Security, usability, and compliance needs documented
+                                                </td>
+                                            </tr>
+                                            <tr data-line="7" class="code-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Architecture Definition Document
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Details baseline and target architectures across all domains
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Integrates
+                                                    <strong>
+                                                        Requirements
+                                                    </strong>
+                                                    , defines
+                                                    <strong>
+                                                        ABBs
+                                                    </strong>
+                                                    , drives
+                                                    <strong>
+                                                        Roadmap
+                                                    </strong>
+                                                    ,
+                                                    <strong>
+                                                        Contract
+                                                    </strong>
+                                                    , and
+                                                    <strong>
+                                                        Compliance
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Target: Microservices; Baseline: Monolith; includes system diagrams
+                                                </td>
+                                            </tr>
+                                            <tr data-line="8" class="code-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        ABBs &amp; SBBs
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Logical (ABBs) and implementable (SBBs) architecture components
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Embedded in
+                                                    <strong>
+                                                        Architecture Definition
+                                                    </strong>
+                                                    ; reused in
+                                                    <strong>
+                                                        Roadmap
+                                                    </strong>
+                                                    and
+                                                    <strong>
+                                                        Migration Plan
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    ABB: Customer Auth; SBB: AWS Cognito
+                                                </td>
+                                            </tr>
+                                            <tr data-line="9" class="code-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Architecture Roadmap
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Lays out sequencing of work packages, timelines, and transitions
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Synthesized from
+                                                    <strong>
+                                                        Architecture Definition
+                                                    </strong>
+                                                    and
+                                                    <strong>
+                                                        ABBs/SBBs
+                                                    </strong>
+                                                    ; input to
+                                                    <strong>
+                                                        Migration Plan
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Phased rollouts: onboarding → mobile app → AI assistant
+                                                </td>
+                                            </tr>
+                                            <tr data-line="10" class="code-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Implementation &amp; Migration Plan
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Outlines how to execute and integrate the roadmap elements
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Detailed from
+                                                    <strong>
+                                                        Roadmap
+                                                    </strong>
+                                                    ; basis for governance via
+                                                    <strong>
+                                                        Contract
+                                                    </strong>
+                                                    and timing for delivery teams
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Step-by-step implementation with cost/resource planning
+                                                </td>
+                                            </tr>
+                                            <tr data-line="11" class="code-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Architecture Contract
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Agreement binding architecture design to solution delivery
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Based on
+                                                    <strong>
+                                                        Definition
+                                                    </strong>
+                                                    ,
+                                                    <strong>
+                                                        Roadmap
+                                                    </strong>
+                                                    , and
+                                                    <strong>
+                                                        Migration Plan
+                                                    </strong>
+                                                    ; governs execution
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Dev team commits to microservices pattern, integration rules
+                                                </td>
+                                            </tr>
+                                            <tr data-line="12" class="code-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Compliance Assessment
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Confirms delivery aligns with architecture and standards
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Conducted against
+                                                    <strong>
+                                                        Architecture Definition
+                                                    </strong>
+                                                    and
+                                                    <strong>
+                                                        Contract
+                                                    </strong>
+                                                    throughout project lifecycle
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Mid-project audit found non-compliance with data API usage
+                                                </td>
+                                            </tr>
+                                            <tr data-line="13" class="code-line code-active-line" dir="auto" style="position: relative;">
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    <strong>
+                                                        Requirements Impact Assessment
+                                                    </strong>
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Evaluates how new requirements affect the architecture
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Updates
+                                                    <strong>
+                                                        Requirements
+                                                    </strong>
+                                                    ,
+                                                    <strong>
+                                                        Definition
+                                                    </strong>
+                                                    , and
+                                                    <strong>
+                                                        Roadmap
+                                                    </strong>
+                                                    based on changes or risks
+                                                </td>
+                                                <td style="padding: 5px 10px; border-top: 1px solid light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-right-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-bottom-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18)); border-left-color: light-dark(rgba(255, 255, 255, 0.18), rgb(18, 18, 18));">
+                                                    Legal updates led to new data retention solution design
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="2" y="85" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
-                        AspectStatement of Architecture WorkArchitecture VisionArchitecture Definition DocumentTOGAF...
+                    <text x="230" y="19" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
+                        ArtifactPurposeConnectionExample (Retail Bank)Tailored Architecture FrameworkAdapts TOGAF to enterprise-specific context and governanceCreated in Preliminary Phase; governs the...
                     </text>
                 </switch>
             </g>
         </g>
         <g>
-            <path d="M 600 46 L 624 46 L 630 52 L 630 86 L 600 86 L 600 46 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-            <path d="M 624 46 L 624 52 L 630 52" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 188 30 L 210 30 L 218 38 L 218 70 L 188 70 L 188 30 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 210 30 L 210 38 L 218 38" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 28px; height: 1px; padding-top: 43px; margin-left: 601px;">
-                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #ffffff; ">
-                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
-                                    <span style="color: light-dark(rgba(0, 0, 0, 0.8), rgb(237, 237, 237)); letter-spacing: -0.17px; text-align: left;">
-                                        Request for
-                                        <span style="color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); letter-spacing: normal; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 32px; height: 1px; padding-top: 50px; margin-left: 154px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                                    <span style="letter-spacing: -0.17px; text-align: left;">
+                                        Tailored
+                                        <span style="letter-spacing: normal; text-align: center;">
                                             Arch
                                         </span>
-                                        . Work
+                                        . Framework
                                     </span>
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="615" y="43" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
-                        Reque...
+                    <text x="186" y="54" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
+                        Tailo...
                     </text>
                 </switch>
             </g>
         </g>
         <g>
-            <path d="M 730 46 L 753 46 L 759 52 L 759 86 L 730 86 L 730 46 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-            <path d="M 753 46 L 753 52 L 759 52" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 78 80 L 102 80 L 108 86 L 108 120 L 78 120 L 78 80 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 102 80 L 102 86 L 108 86" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 27px; height: 1px; padding-top: 43px; margin-left: 731px;">
-                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #ffffff; ">
-                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
-                                    Arch. Roadmap
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 32px; height: 1px; padding-top: 100px; margin-left: 44px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                                    <span style="letter-spacing: -0.17px; text-align: left;">
+                                        Arch. Capability
+                                    </span>
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="745" y="43" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                    <text x="76" y="104" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
                         Arch....
                     </text>
                 </switch>
             </g>
         </g>
         <g>
-            <path d="M 860 46 L 884 46 L 890 52 L 890 86 L 860 86 L 860 46 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-            <path d="M 884 46 L 884 52 L 890 52" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 188 340 L 210 340 L 218 348 L 218 380 L 188 380 L 188 340 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 210 340 L 210 348 L 218 348" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 28px; height: 1px; padding-top: 43px; margin-left: 861px;">
-                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #ffffff; ">
-                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
-                                    Implementation &amp; Migration Plan
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 32px; height: 1px; padding-top: 360px; margin-left: 154px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                                    Re-Usable ABBs
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="875" y="43" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
-                        Imple...
+                    <text x="186" y="364" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
+                        Re-Us...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 77 490 L 99 490 L 107 498 L 107 530 L 77 530 L 77 490 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 99 490 L 99 498 L 107 498" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 32px; height: 1px; padding-top: 510px; margin-left: 43px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                                    Arch. Contract
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="75" y="514" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
+                        Arch....
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 188 550 L 210 550 L 218 558 L 218 590 L 188 590 L 188 550 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 210 550 L 210 558 L 218 558" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 32px; height: 1px; padding-top: 570px; margin-left: 154px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                                    Compliance Assessment
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="186" y="574" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
+                        Compl...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 77 590 L 99 590 L 107 598 L 107 630 L 77 630 L 77 590 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 99 590 L 99 598 L 107 598" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 32px; height: 1px; padding-top: 610px; margin-left: 43px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                                    Requirements Impact Assessment
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="75" y="614" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
+                        Requi...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 188 230 L 212 230 L 218 236 L 218 270 L 188 270 L 188 230 Z" fill="#d80073" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(216, 0, 115), rgb(255, 144, 243)); stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+            <path d="M 212 230 L 212 236 L 218 236" fill="none" stroke="#a50040" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(165, 0, 64), rgb(255, 169, 224));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 32px; height: 1px; padding-top: 250px; margin-left: 154px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: right; color: #000000; background-color: #ffffff; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: normal; word-wrap: normal; ">
+                                    Arch. Requirements Specification
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="186" y="254" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="end">
+                        Arch....
                     </text>
                 </switch>
             </g>
